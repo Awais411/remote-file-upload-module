@@ -51,6 +51,7 @@ This module allows you to upload a file from your local machine to a designated 
 
 2. **Initialize and Apply:**
    - Run `terraform init` in your project directory to initialize Terraform.
+   - Run `terraform plan` in your project directory to know the plan that will be applied.
    - Run `terraform apply` to execute the configuration and upload the file.
 
 
